@@ -10,4 +10,4 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhan1820&layout=compact)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=bkhan1820&repo=repo-name&show_owner=true)](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas.git)
+[![Homegate.ch](https://github-readme-stats.vercel.app/api/pin/?username=bkhan1820&repo=Homegate.ch-scraping-and-data-analysis-with-Pandas&show_owner=true)](https://github.com/bkhan1820/Homegate.ch-scraping-and-data-analysis-with-Pandas.git)
