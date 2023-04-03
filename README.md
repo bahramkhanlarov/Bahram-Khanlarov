@@ -1,4 +1,4 @@
-👋 Hi, I’m @bkhan1820
+👋 Hi, I’m @Bahram Khanlarov
 
 - 👀 I’m interested in the world of data collection and making meaningful sense out of them!
 - 🌱 I’m currently practising R/Python (for data pulling/cleaning/visualization),Machine Learning Models and SQL (for database management)
